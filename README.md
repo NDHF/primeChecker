@@ -1,6 +1,9 @@
 # primeChecker
 A simple JS program for checking prime numbers
 
+* There are two functions, simplePrimeChecker, which gives a straightforward answer, and primeChecker, which "shows its work" more, and offers more explanation
+on why a number isn't prime.
+
 * A prime number is an integer divisble by only two numbers: one and itself.
 * primeChecker takes a number as an argument, and checks all integers between one and the number itself.
 * The modulo operator is used to check for divisibility, by looking for a remainder of zero.
